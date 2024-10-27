@@ -1,3 +1,4 @@
+/*runtime polymorphism occurs when a derived class inherits from a base class and overrides one or more of its virtual functions.*/
 #include <iostream>
 using namespace std;
 
